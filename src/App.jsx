@@ -8,6 +8,7 @@ function App() {
      <div className={styles.calculator}>
       <Display></Display>
       <ButtonContainer></ButtonContainer>
+      <ButtonContainer></ButtonContainer>
      </div>
     </>
   )
